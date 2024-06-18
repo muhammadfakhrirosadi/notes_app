@@ -2,7 +2,7 @@
 APP_PORT=3000
 HOST="localhost"
 USER="root"
-PASSWORD="AKAI@aptx#1412"
+PASSWORD=""
 DATABASE="notes_db"
 
 //file .gitignore
